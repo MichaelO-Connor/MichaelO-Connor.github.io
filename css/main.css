@@ -6,7 +6,9 @@ body {
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
-   font-family: 'Alegreya Sans', sans-serif;
+   font-family: alegreya-sans, sans-serif;
+font-style: normal;
+font-weight: 200;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,7 +23,9 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: alegreya-sans, sans-serif;
+font-style: normal;
+font-weight: 200;
 }
 p {
     font-size: 1.5em;
