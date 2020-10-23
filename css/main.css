@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://use.typekit.net/bjh6zfl.css">
 
 body {
-    margin: 120px auto;
+    margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
@@ -9,7 +9,7 @@ nav ul, footer ul {
     list-style: none;
     font-family: alegreya-sans, sans-serif;
     font-weight: 400;
-    font-style: normal;
+    font-style: italic;
 }
 nav ul li, footer ul li {
     display: inline;
