@@ -1,11 +1,12 @@
-@import url("https://use.typekit.net/bjh6zfl.css");
+<style>
+  @import url("https://use.typekit.net/bjh6zfl.css");
+</style>
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: "ff-scala-sans-web", sans-serif;
-    /*font-family: 'Alegreya Sans', sans-serif;*/
+    font-family: 'Alegreya Sans', sans-serif;
     padding: 0px;
     list-style: none;
 }
@@ -22,8 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: "ff-scala-sans-web", sans-serif;
-    /*font-family: 'Alegreya Sans', sans-serif;*/
+   font-family: 'Alegreya Sans', sans-serif;
 }
 p {
     font-size: 1.5em;
