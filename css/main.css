@@ -9,7 +9,7 @@ nav ul, footer ul {
     list-style: none;
     font-family: alegreya-sans, sans-serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -23,10 +23,10 @@ a:hover {
     text-decoration: underline dotted;
 }
 h1 {
-    font-size: 3em;
-     font-family: alegreya-sans, sans-serif;
+    font-size: 6em;
+    font-family: alegreya-sans, sans-serif;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
 }
 p {
     font-size: 1.5em;
